@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "lodash": "4.17.4",
+    "node-coap-client": "^0.4.8",
     "uuid": "3.1.0"
   }
 }
